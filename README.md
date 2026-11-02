@@ -116,7 +116,8 @@ cap.release()
 <br>
 <img width="512" height="411" alt="image" src="https://github.com/user-attachments/assets/94234a50-a842-4c11-bc18-43068a270b92" />
 <br>
-<img width="512" height="411" alt="image" src="https://github.com/user-attachments/assets/d3978092-049a-402f-ae02-8c631d10c5c3" />
+<img width="336" height="411" alt="WhatsApp Image 2026-11-02 at 11 00 30 AM" src="https://github.com/user-attachments/assets/b640e1b2-e386-43b4-b6e0-673a415a801f" />
+
 
 
 
