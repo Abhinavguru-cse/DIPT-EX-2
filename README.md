@@ -110,14 +110,15 @@ cap.release()
 # Output:
 
 # Result:
-<img width="515" height="321" alt="WhatsApp Image 2026-11-02 at 10 59 07 AM" src="https://github.com/user-attachments/assets/8abbd705-090e-4b44-b433-626132deb9c6" />
-<br>
-<img width="515" height="321" alt="WhatsApp Image 2026-11-02 at 10 59 14 AM" src="https://github.com/user-attachments/assets/12e25303-eb00-453f-bd3b-e44410eb7b1d" />
-<br>
-<img width="512" height="411" alt="image" src="https://github.com/user-attachments/assets/94234a50-a842-4c11-bc18-43068a270b92" />
-<br>
-<img width="336" height="411" alt="WhatsApp Image 2026-11-02 at 11 00 30 AM" src="https://github.com/user-attachments/assets/b640e1b2-e386-43b4-b6e0-673a415a801f" />
+<img width="766" height="612" alt="image" src="https://github.com/user-attachments/assets/8015c147-1b40-4b7c-9e21-43cf31c8728f" />
 
+<br>
+<img width="770" height="582" alt="image" src="https://github.com/user-attachments/assets/4c5c72ff-8dfc-4dfc-ba8f-7e0b4518490d" />
+
+<br>
+<img width="401" height="581" alt="image" src="https://github.com/user-attachments/assets/f6811213-b5ef-4eeb-8af5-22048d701406" />
+<br>
+<img width="447" height="580" alt="image" src="https://github.com/user-attachments/assets/efbca5b5-2ad7-4c99-b54f-3a9f03061ee4" />
 
 
 
